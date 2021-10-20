@@ -16,9 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Subdomain
         </a>
         <RecipeTile />
+        Subdomain
       </header>
     </div>
   );
